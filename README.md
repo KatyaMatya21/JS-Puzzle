@@ -2,3 +2,4 @@
 training with js
 
 ## Demo
+https://kate-work.ru/puzzle/puzzle.html
